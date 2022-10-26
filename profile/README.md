@@ -1,8 +1,8 @@
 <p align="center">
   <img height="300" src="https://avatars.githubusercontent.com/u/86734767">
-  <h1 align="center">Citadel Experiments</h1>
+  <h1 align="center">Citadel Core</h1>
 </p>
 
-This is a repository for some [Citadel](https://github.com/runcitadel) experiments.
+This is an organization to host the cleaned-up [Citadel](https://github.com/runcitadel) core code.
 
-These live outside of the main organization so we can safely make test releases and also push untested/unsafe code (for example from other devs to make test builds without them being able to access any real Citadel code).
+The goal is to reduce the amount of repositories Citadel provides, and clean up the codebase and reduce the amount of work it takes to maintain it.
